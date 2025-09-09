@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hadiwehbi10
-- 👀 I’m interested in machine learning, AI, Data analysis, Cybersecurity, Computer Networks
-- 🌱 I’m proficient in Python, Java, C++ 
+- 👀 I’m interested in Machine Learning, AI, Data Analysis, Cybersecurity, Computer Networks, Industry 4.0 Technologies
 - 📫 How to reach me: hadiwehbi7@gmail.com 
 
 <!---
